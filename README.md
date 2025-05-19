@@ -135,8 +135,7 @@ Includes detailed detection notes with **use cases**, **event tags**, **real-wor
 If you’re short on resources, prioritize the following:
 1, 3, 7, 8, 11, 12, 13, 14, 15, 22, 25
 
-**tips:**
-
+**Tips:**
 Add Event ID **10** for credential dumping detection.  
 Add Event ID **23/26** for anti-forensic behavior.  
 Add Event ID **6** for rootkit or driver-based detection.
